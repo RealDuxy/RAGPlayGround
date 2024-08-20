@@ -1,0 +1,59 @@
+{
+    "queries": {
+        "dfa3b744-9d1d-43e9-97ad-7037e9b3c719": "The questions should be about the following topic: \"China's development of software industry\".",
+        "6feb7bf3-f91c-4876-a712-9be4efcb686e": "The answer must be in Chinese language.",
+        "20c3cb2d-2ac5-43f3-b2d6-a6b0c04ad6af": "The answers to these questions will be given as \"b/a\". Write your answer in Chinese.",
+        "42f23a9f-a886-4e24-93c8-649f1df4bf4f": "The answers to the generated questions should be placed in comments at the end of the questions.",
+        "39756f0a-c108-4c5f-a71f-51678a7375af": "The questions must be about the content of the quiz.",
+        "39428f5a-adbf-4199-b886-3972350e42ff": "The answers to these questions will be printed at the end of the quiz.",
+        "0569b0b2-bb89-45b7-917a-f1de2646f5a2": "The answers to these questions will be given in English. So the question should be followed by what answer it leads to.",
+        "a5c78c55-34c9-4343-8c46-e9ca478dafa0": "The answer to each question should be one of the following: \"Yes\", \"No\", or unrelated to the content of the question.",
+        "744a2787-db7e-458a-8411-a0b4c6a47e68": "The questions should not ask for an answer but rather prompt the student to generate thoughts, ideas, or insights.",
+        "8d7b416a-c092-4af4-8285-4c6ec5b6c9fb": "The questions must be about the content of the question. Each question can be an open-ended question or a closed-ended question. Open-ended questions will ask you to think about something, while closed-ended questions will give you choices without telling you what those choices could be."
+    },
+    "corpus": {
+        "node_104": "与此同时，日本企业也没有培育出EDA（Electronic Design Automation）企业。这和日本社会长期重制造业，轻视软件业有关，也和日本缺乏支持新兴企业的资本市场有关。80年代日本半导体产业如日中天的时候，日本各个大企业都是自己开发设计软件，并将其视为自己的竞争能力，不愿对外公开，这造成日本未能产生EDA企业。日本在工业设计软件、模拟软件、统计软件领域是如此，封门闭户各自单干，导致日本企业在工业软件领域一直落后美国和欧洲。",
+        "node_106": "化学药品相关企业：关东化学、Resonac（昭和电工收购日立化成之后更名）、大金工业、日本Zeon、住友精化、中央玻璃、岩谷产业、三井化学、关东电化工业、ADEKA；半导体生产用到的各种特殊化学药业领域：StellaFarma、住友化学、关东化学、日本化药、东京应化工业、三菱气体化学、三菱化学、大金工业、森田化学工业、德山；半导体生产用各种靶材领域：JX金属、高纯度化学研究所、Ulvac、三井金属矿业、东曹；高纯度水领域：栗田工业、Organo、野村精细科学；",
+        "node_114": "图片日本半导体设备仍然强大全世界半导体制造设备的企业排名，前15名一般是这样分布的：美国6家，日本6家，荷兰2家，韩国1家。日本的头部企业如下：东京电子、爱德万、尼康、SCREEN、迪斯科、国际电气、佳能，东京精密、Lasertec、TOWA，荏原、Ulvac。此外，半导体工厂的搬运设备，日本企业也有很强的存在感，包括村田机械、大福、Rotze等；晶圆检查装置亦然，主要包括日立高科、Lasertec等；探针台领域亦然，主要是东京电子和东京精密两家企业。",
+        "node_116": "东京电子是个比较特殊的例子。业内很多知名企业都是在70年代以后的半导体发展大潮中逐步跨入到半导体制造设备领域的。比如尼康和佳能进入到光刻机领域，是因为之前有光学技术和精密加工技术的积累。村田机械株式会社是位于京都的公司，成立于1935年，该公司最初生产纺织机械，该业务到现在也存在。60年代村田机械开始进军物流设备领域，1979年成功开发无人驾驶自动搬运车ROBO-FAMILY，1982年开发出重物品搬运机器人，1986年开发出无尘车间的空中搬运系统，进军无尘搬运领域。",
+        "node_121": "这里介绍一个颇具日本特色的事例。大家都知道光刻机的硬件有三大组成部分：光源、镜头组和精密制动工作台。日本给光刻机提供光源的企业叫Gigaphoton，该公司是日本最大的工程机械公司小松制作所的全资子公司。该公司成立于2000年，之前是小松研究所的一部分。目前，Gigaphoton给2000台以上的光刻机提供光源系统。日本没有美国那样的发达资本市场，创新融资没有美国便捷。但日本也在不断开拓新领域，资金来源主要靠企业内部的交叉补贴。日本公司往往有多条业务线，盈利业务拿出一部分利润来支持基础研发和新",
+        "node_125": "如今ASML在最先进的EUV光刻机制造上一枝独秀。笔者认为以下几个因素比较重要：第一是国际竞争态势。80年代，日本半导体产业发展迅速，80年代后期市场份额超过美国，美国后来胁迫日本签订日美半导体协定阻击日本半导体产业。日美半导体摩擦的间接结果是韩国、中国台湾和荷兰崛起。在光刻机市场，三星和台积电作为用户，当然期望有多种选择，这样自己才有议价权。2000年左右，英特尔、三星和台积电陆续成为ASML的股东，本质上构成战略合作联盟，而日本公司被排斥在外。",
+        "node_135": "尼康初期的技术积累比较多，日本国内市场也比较大，因此尼康走的是国内协作路线。2000年以后，日本终端用户不断减少，尼康收入不断下降，研发投入就跟不上。实际上，尼康2007年就造出了EUV样机，只比ASML晚一年。样机是为日本的研究组合Selete研制的。Selete是日本国内主要的十家半导体公司在1996年每家出资5亿日元设立的半导体技术共同开发公司。十家公司分别是：富士通、日立制作所、松下电器、三菱电机、NEC、冲电气、三洋电机、夏普、索尼、东芝。",
+        "node_137": "图片日本一直都行的半导体产品有何特点？日本在半导体制造设备和半导体材料领域一直坚挺，除此之外，日本也仍有一些半导体产品在全世界范围保持着比较强的存在感。主要是CMOS Image Sensor（也就是把光信号转换为电子信号的半导体产品，主要用在数码相机和智能手机摄像头等领域）、功率半导体（在各种设备中控制电力的半导体产品）、NAND Flash Memory，汽车用微处理器（控制包括发动机在内的各个功能单元的微处理器）、LED（LED灯也是一种广义的半导体产品）。",
+        "node_156": "在今后半导体行业的发展中，中国不是没有优势。笔者认为，目前蓬勃兴起的第四次产业革命对中国的半导体发展是一个百年一遇的机会。第四次产业革命在2020年左右拉开帷幕，其中有两个主要内容，也就是DX和GX。DX就是Digital Transformation，全球经济的数字化转型，其中最重要的是人工智能。GX就是Green Transformation，全球经济的绿色低碳转型，其中最重要的是从化石能源转到可再生能源。前三次产业革命都是欧美国家主导的。第四次产业革命，中国和欧美日站到了同一个起跑线。",
+        "node_158": "回望过去70年，日本半导体产业发展比较顺利的时候，都有比较好的应用产业，两者是一个互相支持、良性互动的关系。80年代以前，晶体管收音机、电子计算器和电视机为半导体产品提供了巨大应用市场。日本的液晶产业也是因为电子计算器的应用而积累了初期技术。80年代以后是电脑，90年代以后是个人电脑、数码相机和手机。2007年以后，个人电脑和智能手机成为应用半导体产品的两个最大的产业，但日本企业丧失了这两个产业的发展主导权，这直接导致日本半导体产业复兴乏力。"
+    },
+    "relevant_docs": {
+        "dfa3b744-9d1d-43e9-97ad-7037e9b3c719": [
+            "node_104"
+        ],
+        "6feb7bf3-f91c-4876-a712-9be4efcb686e": [
+            "node_106"
+        ],
+        "20c3cb2d-2ac5-43f3-b2d6-a6b0c04ad6af": [
+            "node_114"
+        ],
+        "42f23a9f-a886-4e24-93c8-649f1df4bf4f": [
+            "node_116"
+        ],
+        "39756f0a-c108-4c5f-a71f-51678a7375af": [
+            "node_121"
+        ],
+        "39428f5a-adbf-4199-b886-3972350e42ff": [
+            "node_125"
+        ],
+        "0569b0b2-bb89-45b7-917a-f1de2646f5a2": [
+            "node_135"
+        ],
+        "a5c78c55-34c9-4343-8c46-e9ca478dafa0": [
+            "node_137"
+        ],
+        "744a2787-db7e-458a-8411-a0b4c6a47e68": [
+            "node_156"
+        ],
+        "8d7b416a-c092-4af4-8285-4c6ec5b6c9fb": [
+            "node_158"
+        ]
+    },
+    "mode": "text"
+}
